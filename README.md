@@ -1,16 +1,39 @@
-### Hi there 👋
+## Hi There I'm Firee. :smirk:
 
-<!--
-**PuFiree/PuFiree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Front End Web Developer / Student
 
-Here are some ideas to get you started:
+<font color="aqua">
+Turkey / Karaman
+</font>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach out to me
+
+
+[<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/discord.svg" align="left"  />][Discord]
+
+[<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" align="left"  />][instagram]
+
+<br />
+
+[instagram]: https://instagram.com/xozgur_can
+
+[Discord]: https://discord.com/users/567051950953201665
+
+### Tech I use
+
+<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25"> 
+
+<img  align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25"> 
+
+
+<br />
+<br />
+
+<details>
+<summary>:bulb: Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=PuFiree&theme=radical"> 
+ 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?=anuraghazra&layout=compact&theme=radical" align="right"> 
+
+</details>
