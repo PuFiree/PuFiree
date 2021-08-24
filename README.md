@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/830825834926571580/879739058518110248/710033941985230929.png" align="right" width="300" height="250">
+<img src="https://media.discordapp.net/attachments/830825834926571580/879739058518110248/710033941985230929.png" align="right" width="200" height="200">
 
 ## Hi There I'm Firee. :smirk:
 
