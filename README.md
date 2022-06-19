@@ -1,6 +1,6 @@
 <img src="https://media.discordapp.net/attachments/830825834926571580/879739058518110248/710033941985230929.png" align="right" width="200" height="200">
 
-## Hi There I'm Firee. :smirk:
+## Hi There I'm Firee. :
 
 ### Junior Front End Web Developer / Student
 
@@ -17,7 +17,7 @@ Turkey / Karaman
 
 <br />
 
-[instagram]: https://instagram.com/xozgur_can
+[instagram]: https://instagram.com/canfw_
 
 [Discord]: https://discord.com/users/567051950953201665
 
